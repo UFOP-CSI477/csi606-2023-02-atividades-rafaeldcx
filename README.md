@@ -3,11 +3,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Rafael de Carvalho
+- Matrícula: 20.2.8027
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: 2023/02
+- Link para o seu GitHub: [rafaeldcx](https://github.com/rafaeldcx)
 
 ## [Projeto final:](./Projeto/README.md)
 
